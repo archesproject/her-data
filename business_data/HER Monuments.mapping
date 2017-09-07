@@ -5,7 +5,7 @@
         {
             "arches_nodeid": "6ead58a3-09cc-11e7-a006-6c4008b05c4c", 
             "arches_node_name": "Address Type", 
-            "file_field_name": "", 
+            "file_field_name": "Address", 
             "concept_export_value": "label", 
             "data_type": "concept", 
             "export": false
@@ -247,14 +247,14 @@
         {
             "arches_nodeid": "e4560249-fa36-11e6-9e3e-026d961c88e6", 
             "arches_node_name": "Monument Type From Date", 
-            "file_field_name": "", 
+            "file_field_name": "Monument Type From Date", 
             "data_type": "date", 
             "export": false
         }, 
         {
             "arches_nodeid": "e4560245-fa36-11e6-9e3e-026d961c88e6", 
             "arches_node_name": "Monument Type To Date", 
-            "file_field_name": "", 
+            "file_field_name": "Monument Type To Date", 
             "data_type": "date", 
             "export": false
         }, 
